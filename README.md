@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Rachna Pant from India<br><br>- 🔭 I’m working as MERN Stack Developer<br>- 📚 I'm currently learning Next JS<br>- ⚡ In my free time I solve logical questions</p>
 
 ###
 
@@ -60,8 +60,8 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
