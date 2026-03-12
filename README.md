@@ -23,6 +23,7 @@
 
 <h2 align="left">I code with</h2>
 <ul>
+  <li> JavaScript with ES concepts </li>
   <li> React JS </li>  
   <li> Node JS </li>  
   <li> Express JS </li>  
@@ -30,6 +31,7 @@
   <li> Angular </li>  
   <li> React Native  </li>  
   <li> PHP </li>  
+  <li> Next JS </li>  
   <li> MySQL </li>  
   <li> Mongodb </li>  
 </ul>
