@@ -13,6 +13,11 @@
 <p align="left">✨ Creating bugs since 2018
   <!-- .<br>📚 I'm currently learning Nex<br>🎯 Goals: ...<br>🎲 Fun fact: ... -->
 </p>
+<p> Trainerd 6000+ Professionals with 80% sucess ration </p>
+<p> Conducted mock interviews for <strong> 300+ students </strong>, improving technical interview readiness </p>
+<p> Conducted <strong> 200+ hands-on training sessions </strong>. </p>
+<p> Developed <strong> 70% Websites  </strong> with 90% SEO Optimization </p>
+
 
 ###
 
