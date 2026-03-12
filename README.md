@@ -22,7 +22,17 @@
 ###
 
 <h2 align="left">I code with</h2>
-
+<ul>
+  <li> React JS </li>  
+  <li> Node JS </li>  
+  <li> Express JS </li>  
+  <li> PHP </li>  
+  <li> Angular </li>  
+  <li> React Native  </li>  
+  <li> PHP </li>  
+  <li> MySQL </li>  
+  <li> Mongodb </li>  
+</ul>
 ###
 
 <div align="left">
