@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rachna Pant and I'm a front end developer, from Noida, UP</p>
+<p align="left">My name is Rachna Pant and I'm a Corporate Trainer and MERN Stack Developer</p>
 
 ###
 
